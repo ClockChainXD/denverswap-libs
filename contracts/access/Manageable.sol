@@ -2,7 +2,7 @@
 
 pragma solidity >=0.4.0;
 
-import './Context.sol';
+import '../GSN/Context.sol';
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
